@@ -36,6 +36,8 @@ sudo apt-get update && sudo apt-get install apt-cacher-ng -y
 
 我使用的配置文件，放在了这个仓库里。
 
+https://github.com/nealhallyoung/iacs.git
+
 你可以在此基础上修改配置，或者不改直接用。
 
 ```
